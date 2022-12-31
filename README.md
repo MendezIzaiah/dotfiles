@@ -6,4 +6,4 @@ Uses [GNU Stow](https://www.gnu.org/software/stow/)
 ## Usage
 - `git clone git@github.com:MendezIzaiah/dotfiles.git`
 - `cd dotfiles`
-- `stow */` to copy all directories
+- `stow */` to copy all directories or `stow "directory name"`
