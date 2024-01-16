@@ -1,0 +1,1 @@
+/home/izzy/.emacs.d/config.org
